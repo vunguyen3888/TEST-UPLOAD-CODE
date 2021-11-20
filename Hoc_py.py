@@ -7,5 +7,4 @@ e = "*****"
 f = e.join(b)
 print(f)
 
-
-
+print(b)
