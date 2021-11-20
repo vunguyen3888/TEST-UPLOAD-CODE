@@ -15,3 +15,5 @@ a = 'NguyenVu'
 b = len(a)
 c = len(a[:3])
 print(b+c)
+
+t = 8
